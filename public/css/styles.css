@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: #000;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+#report {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 4rem; 
+    text-align: center;
+    color: #FFF;
+    animation: flicker .5s infinite;
+}
+
+@keyframes flicker {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
