@@ -8,7 +8,7 @@
 
 ```mermaid
 flowchart TD
-A(Inicialización del Servidor) -->  B{Presionarion el mando de activación?};
+A(Inicialización del Servidor) -->  B{Presionaron el mando de activación?};
 B -- Sí --> C[Generación de reporte];
 B -- No --> D[Aguardar pulsación];
 C --> E[Mandar datos al cliente];
