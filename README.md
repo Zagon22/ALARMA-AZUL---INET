@@ -2,19 +2,19 @@
 
 ## EJECUCIÓN
 
-** CLONAR REPOSITORIO **
+ <strong>CLONAR REPOSITORIO</strong>
 
 ```git clone https://github.com/Zagon22/ALARMA-COD-AZUL-INET'```
 
-** ABRIR REPOSITORIO **
+ <strong>ABRIR REPOSITORIO</strong>
 
 ```cd 'ALARMA-COD-AZUL-INET' && code .```
 
-** INSTALAR DEPENDENCIAS **
+ <strong>INSTALAR DEPENDENCIAS</strong>
 
 ```npm i -y```
 
-** EJECUTAR **
+ <strong>EJECUTAR</strong>
 
 ```npm run dev```
 
