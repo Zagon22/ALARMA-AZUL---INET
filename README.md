@@ -2,6 +2,20 @@
 
 ## EJECUCIÓN
 
+** CLONAR REPOSITORIO **
+
+```git clone https://github.com/Zagon22/ALARMA-COD-AZUL-INET'```
+
+** ABRIR REPOSITORIO **
+
+```cd 'ALARMA-COD-AZUL-INET' && code .```
+
+** INSTALAR DEPENDENCIAS **
+
+```npm i -y```
+
+** EJECUTAR **
+
 ```npm run dev```
 
 ## FUNCIONAMIENTO
