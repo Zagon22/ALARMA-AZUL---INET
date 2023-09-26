@@ -4,7 +4,7 @@
 
  <strong>CLONAR REPOSITORIO</strong>
 
-```git clone https://github.com/Zagon22/ALARMA-COD-AZUL-INET'```
+```git clone https://github.com/Zagon22/ALARMA-COD-AZUL-INET```
 
  <strong>ABRIR REPOSITORIO</strong>
 
